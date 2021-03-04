@@ -19,6 +19,16 @@ a {
     color:#ffff80;
 }
 
+#center-img{
+    border-radius:50%;
+    display: block;
+    text-align: center;
+    width: 50%;
+    z-index: 100;
+    min-width:79px;
+    max-width: 300px;
+}
+
 @keyframes fadeInUp {
     from {
         opacity: 0;
