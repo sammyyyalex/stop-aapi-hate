@@ -19,6 +19,12 @@ a {
     color:#ffff80;
 }
 
+a:hover {
+    color:#ffffff;
+    position: relative;
+    top: -5px;
+}
+
 #center-img{
     border-radius:50%;
     display: block;
